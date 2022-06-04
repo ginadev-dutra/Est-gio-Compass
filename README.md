@@ -1,4 +1,4 @@
-# Estagio-Compass
+# Estágio Compass
 
 Atividade avaliativa Sprint 1
 
