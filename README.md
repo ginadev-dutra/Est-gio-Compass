@@ -4,10 +4,11 @@ Atividade avaliativa Sprint 1
 
 Questão 6: Questionário
 Escreva um programa Java que tem como objetivo ser um quis de perguntas e respostas. Na tela, você perguntará ao usuário e ele responderá. Se o usuário acertar ou errar, você precisa informar se ele acertou ou errou e passar para próxima pergunta (enquanto houver próxima). Utilizem array para guardar as perguntas e respostas. No fim do quis, você deve apresentar quantas o usuário acertou e quantas ele errou, como no exemplo abaixo(não precisa ser exatamente assim):
-# Ex: 
-# Usuario XPTO
-# Acertos: 6
-# Erros: 4
+
+Ex: 
+Usuario XPTO
+Acertos: 6
+Erros: 4
 
 Questão 7: UsuarioSenha
 Escreva um programa Java que tem como objetivo validar se um usuário e senha existem no sistema. Se o usuário e senha tiver corretos, o usuário deverá receber uma mensagem de acordo com o horário. 
@@ -24,6 +25,7 @@ incorretos.”
 Questão 8: Funcionário / Bonificação Funcionário
 Escreva um programa Java que tem como objetivo validar se um determinado funcionário tem direito a bonificação. O programa precisa receber a quantidade de funcionários que serão cadastrados e após isso, o programa deve armazenar o nome e o salário de cada funcionário. Se o usuário receber até R$ 1000,00 reais, receberá 20% de bonificação. Se receber acima de 1000 e até 2000, recebe 10%. Se for acima de 2000, ao invés de bonificação, o funcionário terá um desconto de 10%. No fim do programa, deverá ter uma saída com os nomes dos funcionários, salário, bônus ou desconto e salário liquido. 
 Utilizem arrays para armanezar os dados.
+
 Ex: 
 Funcionário XPTO
 Salário: 1200.00
