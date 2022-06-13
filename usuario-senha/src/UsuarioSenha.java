@@ -28,17 +28,17 @@ public class UsuarioSenha {
 			int valorMinuto = hourNow.getHour() * 60 + hourNow.getMinute();
 
 			int onze = (11 * 60) + 59;
-			int seis = (6 * 60) + 59;
+			int seis = (6 * 60);
 			if (valorMinuto >= seis && valorMinuto <= onze)
 				System.out.println("Bom dia, você se logou ao nosso sistema.");
 
 			int dezessete = (17 * 60) + 59;
-			int doze = (12 * 60) + 59;
+			int doze = (12 * 60);
 			if (valorMinuto >= doze && valorMinuto <= dezessete)
 				System.out.println("Boa tarde, você se logou ao nosso sistema.");
 
 			int vinteTres = (23 * 60) + 59;
-			int dezoito = (18 * 60) + 59;
+			int dezoito = (18 * 60);
 			if (valorMinuto >= dezoito && valorMinuto <= vinteTres)
 				System.out.println("Boa noite, você se logou ao nosso sistema.");
 
